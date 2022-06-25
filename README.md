@@ -1,3 +1,5 @@
+OUTDATED
+I do not update this anymore. This was a fun project for me but This is not a actuall programming language it was just a toy programming language. Thank you
 # appl-language
 A simple programming language written in python
 # Download for windows
