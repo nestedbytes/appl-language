@@ -6,7 +6,7 @@ import urllib.request
 
 app = typer.Typer()
 
-latestversion = get('https://shourgamer2.tk/appl-language/version.txt').text
+latestversion = get('https://raw.githubusercontent.com/shourdev/appl-language/main/version.txt').text
 version = "1.0.0"
 
 
